@@ -43,19 +43,45 @@ status: 🟢 Open to SWE internships & entry-level roles
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,dart,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,dart,cpp,c,java,js" />
 
 **Web & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=flask,html,css,bootstrap,django,nodejs" />
 
-**Mobile & Database**
+**Mobile & App Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
+
+**AI / ML / GenAI**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+
+</div>
+
+<br/>
+
+### 💡 Current Skills Snapshot
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| **Programming** | Python, Dart, C++, C, Java (basics), JavaScript (basics) |
+| **Web Development** | Flask, HTML5, CSS3, Bootstrap, REST APIs |
+| **Mobile Development** | Flutter, Dart, Firebase, State Management (Provider/Riverpod) |
+| **Databases** | MySQL, SQLite, Firebase Realtime DB/Firestore |
+| **AI / Generative AI** | Prompt Engineering, LLM APIs, Python for AI, exploring TensorFlow/PyTorch |
+| **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems |
+| **Tools & Workflow** | Git, GitHub, VS Code, Postman, Figma (basics), Linux CLI |
 
 </div>
 
@@ -155,8 +181,24 @@ Practical AI/GenAI projects — from API-driven tools to early LLM-powered appli
 ![Backend](https://img.shields.io/badge/Backend%20Development-2C5364?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20%2F%20GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SWE](https://img.shields.io/badge/Software%20Engineering-000000?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+```text
+📌 Right now, I'm focused on:
+   • Advanced DSA — Trees, Graphs, Dynamic Programming
+   • Flutter — state management, clean architecture, API integration
+   • Generative AI — LLM APIs, RAG basics, prompt engineering
+   • System Design fundamentals for interview prep
+   • SQL — joins, indexing, query optimization
+```
 
 </div>
 
